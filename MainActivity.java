@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
     private  void deletecontact()
     {
         Toast.makeText(this, "contact delete", Toast.LENGTH_SHORT).show();
+        finish();
     }
 
 

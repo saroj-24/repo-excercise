@@ -4,6 +4,6 @@ public class Contact {
 
     public  void savecontact()
     {
-        
+        Contact s  =  new Contact();
     }
 }
