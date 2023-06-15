@@ -50,6 +50,10 @@ public class MainActivity extends AppCompatActivity {
     {
         Toast.makeText(this, "contact save", Toast.LENGTH_SHORT).show();
     }
+    private  void deletecontact()
+    {
+        Toast.makeText(this, "contact delete", Toast.LENGTH_SHORT).show();
+    }
 
 
 }
